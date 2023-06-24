@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Pro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Brands:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-nunito: Nunito;
+  --font-lato: Lato;
+  --font-font-awesome-5-pro: "Font Awesome 5 Pro";
+  --font-font-awesome-5-brands: "Font Awesome 5 Brands";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-27xl: 46px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-7xl: 26px;
+  --font-size-11xl: 30px;
+  --font-size-3xl: 22px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --card-border-primary: #fff;
+  --color-gray-100: #0e081e;
+  --color-gray-200: #0b0417;
+  --color-lightgray: #cdccce;
+  --color-ghostwhite: #fbf9ff;
+  --color-midnightblue: #1c103b;
+  --color-darkorchid: #9c5bf5;
+  --color-slateblue: #7c58d3;
+  --color-pink: #ffbbdd;
+  --color-deeppink: #ff47a2;
+  --color-dimgray-100: #675d6b;
+  --color-dimgray-200: #4c4b50;
+  --color-lavender: #ebe5f7;
+  --color-gold-100: #ffda47;
+  --color-yellow: #dcff02;
+  --color-darkslateblue: #392c53;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+}
